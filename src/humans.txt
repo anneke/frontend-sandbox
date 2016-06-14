@@ -1,0 +1,10 @@
+/* TEAM */
+
+Je titel: Je naam.
+Site: email, link naar contactformulier, etc.
+Twitter: Je Twitter gebruikersnaam.
+Locatie: Plaats, Land.
+
+/* THANKS */
+
+Naam: naam of url
